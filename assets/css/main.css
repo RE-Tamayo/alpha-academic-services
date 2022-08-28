@@ -2763,7 +2763,7 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: #3980af;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2774,9 +2774,10 @@ input, select, textarea {
 			margin: 0 0 0.75em 0;
 			text-align: center;
 			width: 2.35em;
+			
 		}
 
-			#header .logo.fa-paper-plane-o:before {
+			#header .logo.roc {
 				left: -0.075em;
 				position: relative;
 			}
